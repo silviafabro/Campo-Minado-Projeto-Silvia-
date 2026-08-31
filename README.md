@@ -1,4 +1,4 @@
-# Campo Minado — Java (console)
+# Campo Minado em Java 
 Aluna : Silvia de Oliveira Fabro
 Projeto acadêmico de Campo Minado em Java, seguindo a
 especificação da disciplina de Programação Orientada a Objetos.
