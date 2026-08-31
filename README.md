@@ -1,4 +1,4 @@
-# Relatório Técnico - Campo Minado em Java
+*Campo Minado em Java*
 
 **Aluna:** Silvia de Oliveira Fabro  
 **Disciplina:** Programação Orientada a Objetos  
@@ -56,14 +56,9 @@ A suíte de testes unitários foi desenvolvida para validar as regras cruciais d
      ## Evidências de Funcionamento (Prints da Partida)
 
 ### 1. Vitória na Partida
-![Partida Vencida]<img width="517" height="257" alt="WhatsApp Image 2026-08-31 at 10 51 01" src="https://github.com/user-attachments/assets/d79e774c-23a1-4bcf-821e-c41c3c165288" />
+<img width="517" height="257" alt="WhatsApp Image 2026-08-31 at 10 51 01" src="https://github.com/user-attachments/assets/d79e774c-23a1-4bcf-821e-c41c3c165288" />
 
 
 ### 2. Derrota na Partida
-![Partida Perdida]<img width="757" height="862" alt="WhatsApp Image 2026-08-31 at 10 49 25" src="https://github.com/user-attachments/assets/aa85f31a-7d3c-4e74-9e38-86c249767be8" />
+<img width="757" height="862" alt="WhatsApp Image 2026-08-31 at 10 49 25" src="https://github.com/user-attachments/assets/aa85f31a-7d3c-4e74-9e38-86c249767be8" />
 
-
-
-3. Encapsulamento completo dos atributos de cada objeto.
-4. Uso prático de `ArrayList` na resolução de problemas de busca e expansão (cascata).
-5. Desacoplamento entre lógica do jogo e visualização gráfica.
